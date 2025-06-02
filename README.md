@@ -1,4 +1,4 @@
-#darkside-theme
+# darkside-theme
 
 Bem-vindo ao meu repositório!
 
@@ -6,7 +6,7 @@ Este repositório contém o tema **darkside-theme**, desenvolvido como parte do 
 
 ---
 
-##Como instalar o tema
+## Como instalar o tema
 
 1. **Tenha o WordPress instalado e configurado** no seu dispositivo local ou servidor.
 
