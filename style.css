@@ -34,6 +34,10 @@ header {
   z-index: 1000;
 }
 
+h2 {
+font-size: 2rem;	
+}
+
 .navbar {
   display: flex;
   justify-content: space-between;
@@ -124,3 +128,19 @@ form#form-contato button:hover {
   text-align: center;
   margin-top: 0.5rem;
 }
+
+.contact-links {
+  margin-top: 10px;
+}
+
+.contact-links a {
+  margin-right: 15px;
+  color: #fff; /* ou a cor que preferir */
+  text-decoration: none;
+  font-size: 1.1rem;
+}
+
+.contact-links a i {
+  margin-right: 5px;
+}
+
